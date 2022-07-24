@@ -30,8 +30,8 @@ Here are some ideas to get you started:
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/image.gif">
 </a>
 
-- 🔭 I’m currently pursuing **MBA in Analytics from IIM, Kashipur**
-- 🤔 I’m looking for help with **Internships for MBA Aalytics**
+- 🔭 I’m currently pursuing **MBA (Analytics) from IIM, Kashipur**
+- 🤔 I’m looking for help with **Internships for MBA (Analytics)**
 - 💬 Ask me about Anything [here](https://github.com/Gunjan827/Gunjan827/issues/1)! I am happy to help.
 - 😄 Pronouns : **She/Her**
 - ⚡ Fun fact : **Best Part Of The Journey Is : *It Ends***
